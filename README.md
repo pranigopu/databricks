@@ -1,2 +1,6 @@
-# databricks
-A repository containing my readings, writings, conceptual solutions, codes and documentation regarding Databricks.
+# Databricks
+A repository containing my Databricks learning material.
+
+# Explore
+
+- [Data Intelligence Using Databricks](./data-intelligence-using-databricks/)
