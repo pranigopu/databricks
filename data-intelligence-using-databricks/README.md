@@ -838,4 +838,4 @@ The Databricks data intelligence platform is built on open source technologies a
 
 ## Read More
 
-For deeper technical detail and focus: [Databricks for Data Engineering](https://www.google.com/url?q=https://docs.google.com/document/d/1kN-2ZgJ6Gz4e5Yq79YK2mGBXbtqShVsqgkCawEOSnUU/&sa=D&source=editors&ust=1777921720841085&usg=AOvVaw2KfqrxfNqUSetpOSXtAhBG)
+For deeper technical detail and focus: [Databricks for Data Engineering](../conceptual-notes/databricks-for-data-engineering.md)
