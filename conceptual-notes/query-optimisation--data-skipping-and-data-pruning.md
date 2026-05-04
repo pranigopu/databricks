@@ -1,4 +1,4 @@
-<h1>Query Optimisation - Data Skipping & Data Pruning</j1>
+<h1>Query Optimisation - Data Skipping & Data Pruning</h1>
 
 ---
 
