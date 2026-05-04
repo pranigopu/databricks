@@ -215,21 +215,13 @@ The Delta Lake format is NOT a file format, i.e.  it is NOT a format in which t
 
 ```
 my_table
-
 ├── _delta_log/
-
 │   ├── 00000000000000000000.json                # Initial state
-
 │   ├── 00000000000000000001.json                # Transaction 1
-
 │   ├── 00000000000000000002.json                # Transaction 2
-
 │   └── 00000000000000000010.checkpoint.parquet  # Checkpoint
-
 ├── part-00000-xxx.snappy.parquet                # Data file 1
-
 ├── part-00001-xxx.snappy.parquet                # Data file 2
-
 └── part-00002-xxx.snappy.parquet                # Data file 3
 ```
 
