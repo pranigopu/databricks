@@ -495,8 +495,8 @@ The metastore is the top-level container for metadata in Unity Catalog. It regis
 
 "That's right. And Lakeflow has 3 components that map to these 3 components of data engineering that you've laid out:
 
-1. Lakeflow Connect to easily connect key data sources such as: <br> Databases, cloud storage, message buses, popular enterprise apps, etc.
-2. Declarative Pipelines to declaratively define data pipelines using SQL and Python <br> Handles: streaming data, autoscaling, quality and error controls
+1. Lakeflow Connect to easily connect key data sources such as: <br> *Databases, cloud storage, message buses, popular enterprise apps, etc.*
+2. Declarative Pipelines to declaratively define data pipelines using SQL and Python <br> Handles: *streaming data, autoscaling, quality and error controls*
 3. Lakeflow Jobs to orchestrate and automate data pipelines, e.g.:
      - Defining task sequences for batch and streaming workloads
      - Monitoring and troubleshooting capabilities
