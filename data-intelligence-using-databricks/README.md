@@ -158,6 +158,8 @@ A schema defines the abstract blueprint and rules for data structure and conten
 
 An open file format is a public, standardized way to store digital data, meaning anyone can use it without proprietary restrictions, ensuring interoperability across different software (like text, images, or data) and preventing vendor lock-in, with examples including JPEG, SV, PDF, and OpenDocument (ODT), contrasting with closed formats controlled by a single company.
 
+---
+
 "I see. Well, we've gone through ingestion and storage. I'm guessing now we're getting into the metadata layer at last."
 
 "Yes, we are! This is where the fun begins. The metadata layer manages and organises the metadata associated with the data that's been ingested and stored. This metadata goes beyond the metadata that comes with the object when ingested, as it also keeps track of operational data such as recent users and changes, past data quality incidents, orchestration jobs through which these data were ingested, transformation models these data went through, and so on."
